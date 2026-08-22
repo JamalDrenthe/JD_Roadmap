@@ -145,7 +145,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="bg-slate-900 border-t border-slate-800 mt-12 py-4 text-center text-xs text-slate-500">
-        <p>Jouw Persoonlijke Groei & Investeringsplan • Gemaakt in Canvas</p>
+        <p>Jouw Persoonlijke Groei & Investeringsplan • Quantum Initium</p>
       </footer>
     </div>
   );
