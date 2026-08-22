@@ -1,5 +1,6 @@
 {
-  "name": "react-example",
+  "name": "jd-roadmap",
+  "description": "Financieel Groeipad & Roadmap",
   "private": true,
   "version": "0.0.0",
   "type": "module",
