@@ -1,0 +1,6 @@
+{
+  "name": "Financieel Groeipad & Roadmap",
+  "description": "Financiële tijdlijn, herinvesteringsmodel en interactieve roadmap van Vinted startkapitaal tot cyclische opschaling naar 6 woningen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
